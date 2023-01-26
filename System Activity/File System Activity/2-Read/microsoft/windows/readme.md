@@ -2,7 +2,7 @@
 ### Windows Security 4663(S)
 - **Event Code**: 4663(S)
 - **Event Title**: An attempt was made to access an object.
-- **Description**: Logs the start of every file activity in 4656 and translates to OCSF
+- **Description**: This event indicates that a specific operation was performed on an object. The object could be a file system, kernel, or registry object, or a file system object on removable storage or a device and translates to OCSF
 - **Event References**:
    - https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4663
   - https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4663 
