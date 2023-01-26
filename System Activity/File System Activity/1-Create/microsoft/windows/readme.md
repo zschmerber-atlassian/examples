@@ -19,7 +19,7 @@
  
 | OCSF                       | Raw                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `actor.process.file`       | `Process Information.Creator Process Name`                                                                               |
+| ``                         | ``                                                                                                                       |
 
 File activity audit flow
 <img width="1491" alt="image" src="https://user-images.githubusercontent.com/122571503/214717883-11600fd8-843f-4908-866a-516a817c6a5e.png">
