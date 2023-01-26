@@ -1,6 +1,6 @@
-# Event Dossier: Windows Security 4656
-### Windows Security 4656
-- **Event Code**: 4656
+# Event Dossier: Windows Security 4656(S,F)
+### Windows Security 4656(S,F)
+- **Event Code**: 4656(S,F)
 - **Event Title**: A handle to an object was requested
 - **Description**: Logs the start of every file activity in 4656 and translates to OCSF
 - **Event References**:
