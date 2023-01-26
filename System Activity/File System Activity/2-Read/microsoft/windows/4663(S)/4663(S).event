@@ -1,0 +1,26 @@
+Win2012
+An attempt was made to access an object.
+
+
+Subject:
+  Security ID: LB\administrator
+  Account Name: administrator
+  Account Domain: LB
+  Logon ID: 0x3DE02
+
+Object:
+  Object Server: Security
+  Object Type: File
+  Object Name: C:\asdf\New Text Document.txt
+  Handle ID: 0x178
+  Resource Attributes: S:AI
+ 
+
+Process Information:
+  Process ID: 0x113c
+  Process Name: C:\Windows\System32\notepad.exe
+
+Access Request Information:
+  Accesses: WriteData (or AddFile)
+    AppendData (or AddSubdirectory or CreatePipeInstance)
+    Access Mask: 0x6
