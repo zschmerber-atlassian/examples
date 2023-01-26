@@ -1,11 +1,9 @@
-
 # Event Dossier: Windows Security 4656
 ### Windows Security 4656
 - **Event Code: 4656
 - **Event Title: A handle to an object was requested
-- **Description: Logs the start of every file activity but does not guarantee that it succeeded
+- **Description: Logs the start of every file activity in 4656 and translates to OCSF
 - **Event References:
-- **Data It Provides: The name of the file
   - https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4656
   - https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4656 
 
